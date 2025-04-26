@@ -57,8 +57,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## ✨ Screenshots
-(Add screenshots after running your Streamlit app!)
 
 Example sections to add:
 - Homepage UI
