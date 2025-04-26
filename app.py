@@ -7,7 +7,7 @@ from langchain.vectorstores import FAISS
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
 # Configure Google API
-genai.configure(api_key="AIzaSyBvn8elJo4YhmHkLxy5kGZz4R979z2_Ubg")  # Replace with your actual API key
+genai.configure(api_key=" ")  # Replace with your actual API key
 
 # UI Enhancements
 st.set_page_config(page_title="Gen AI: News Researcher Tool", page_icon="📊", layout="wide")
